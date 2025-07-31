@@ -44,5 +44,5 @@ The dataset used is assumed to be `IMDb_Movies_India.csv`. Make sure to update t
 
 ---
 
-Feel free to ⭐ the repo if you find it helpful!
+
 
